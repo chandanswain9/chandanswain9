@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandan Swain</h1>
-<h3 align="center">CSE Student | Problem Solver | MERN Stack Developer</h3>
+<h3 align="center">Problem Solver | MERN Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Java+%7C+Python+%7C+MERN+Stack;250%2B+LeetCode+Problems+Solved;Building+Projects+and+Growing+Every+Day!" alt="Typing SVG" />
